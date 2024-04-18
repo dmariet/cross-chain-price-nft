@@ -1,4 +1,4 @@
-# Cross-Chain NFT Contracts
+# Cross-Chain Price NFT Contracts
 
 ## Overview
 This repository comprises a suite of Solidity smart contracts tailored to facilitate cross-chain interoperability and token minting functionality. Leveraging the Chainlink Cross-Chain Interoperability Protocol (CCIP) infrastructure, these contracts enable seamless communication across different blockchain networks.
